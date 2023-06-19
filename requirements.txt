@@ -1,5 +1,6 @@
 numpy
-pandas
+pandas==2.0.1
 scikit-learn
 streamlit==1.15.0
 matplotlib==3.5.2
+seaborn==0.12.2
